@@ -1,0 +1,17 @@
+# Prebuilt Trebuchet
+
+## WTF is this?!
+
+This is basically a way to avoid unreproducible builds of a
+Trebuchet port. It was ported from LineageOS 15.1 through the source
+to support Android Lollipop ~ Pie. But since building it inline would
+return a lot of errors and abort the build entirely, I have decided
+to do it this way instead.
+
+## Where's the source of this?
+
+https://github.com/alesimula/android_packages_apps_Trebuchet
+
+## XDA thread of it
+
+https://forum.xda-developers.com/t/app-port-lineageos-15-1-trebuchet-laucher-for-any-rom-ver-8-1-0-22.3667436/
